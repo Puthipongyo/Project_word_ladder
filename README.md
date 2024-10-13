@@ -24,6 +24,6 @@ The **Word Ladder Puzzle Solver** is designed to utilize **graph theory** and **
 3. **Neighbor Search**: Users can view all neighboring words (words one step away) for a specific word.
 
 ## Algorithm & Research
-- This project heavily emphasizes **graphs** and employs **Dijkstra's algorithm** to efficiently find the shortest transformation path. Each word can be represented as a node in a graph, with edges connecting nodes that can be transformed into each other based on the defined rules.
+- This project uses **graphs** and **Dijkstra's algorithm** to find the shortest transformation path.
 - External algorithms or code snippets can be utilized, but must be properly cited from textbooks, research papers, or online resources.
 - Referencing classmates is not allowed.
