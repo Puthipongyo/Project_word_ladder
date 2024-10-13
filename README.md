@@ -3,8 +3,9 @@
 ## Project Overview
 The **Word Ladder Puzzle Solver** is designed to utilize **graph theory** and **Dijkstra's shortest path algorithm** to find the most efficient transformation between two words. The puzzle involves transforming one word into another by changing one letter at a time, ensuring that each intermediate word is also a valid entry.
 
-![Word Ladder Visualization 1](https://github.com/user-attachments/assets/cff2b97f-3154-4ee1-9d66-fa78397fa303)
-![Word Ladder Visualization 2](https://github.com/user-attachments/assets/54f88cd1-1eb5-4412-8e58-c1100c30f797)
+![image](https://github.com/user-attachments/assets/3e89dbc5-23a6-4bff-b282-312085ff9867)
+![image](https://github.com/user-attachments/assets/6308e116-87fb-4825-b448-fbda7cbf1caa)
+
 
 ## Transformation Rules
 1. **Ladder Step**: Only one character can be changed at a time. The transformation cost is calculated by the difference between the old and new characters based on their positions in the alphabet.  
